@@ -11,3 +11,18 @@ It includes courses on python and R. To install necessary packages for the pytho
 > python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
 
 ## 3. See [more learning resources](https://github.com/harvardinformatics/learning-bioinformatics-at-home)
+
+
+## 4. Additional R resources:
+
+Introductory video demonstrations for R commands: https://www.rforbiologists.org/
+Introduction to Statistical Learning using R: http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf
+
+## 5. Additional Python resources:
+
+($$$) (Uses Jupyter notebook, a python IDE) Udemy course on commonly used data analysis packages for python https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
+
+https://pandas.pydata.org/docs/
+https://numpy.org/doc/stable/
+https://seaborn.pydata.org/
+https://matplotlib.org/3.2.1/contents.html
