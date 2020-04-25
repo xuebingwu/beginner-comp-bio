@@ -12,7 +12,6 @@ It includes courses on python and R. To install necessary packages for the pytho
 
 ## 3. See [more learning resources](https://github.com/harvardinformatics/learning-bioinformatics-at-home)
 
-
 ## 4. Additional R resources:
 
 Introductory video demonstrations for R commands: https://www.rforbiologists.org/
